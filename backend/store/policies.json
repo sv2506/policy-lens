@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "title": "General Liability (GL) Basics",
+        "text": "GL helps cover third-party bodily injury and property damage. Typical limits are $1,000,000 per occurrence and $2,000,000 aggregate. Common endorsements: Additional Insured, Primary & Non-Contributory, and Waiver of Subrogation."
+    },
+    {
+        "id": "2",
+        "title": "Workers’ Compensation (WC) Basics",
+        "text": "WC covers employee injuries and illnesses arising from work. It usually includes medical benefits and wage replacement. Employers Liability limits such as $1,000,000/$1,000,000/$1,000,000 are common."
+    },
+    {
+        "id": "3",
+        "title": "Certificate of Insurance (COI) Basics",
+        "text": "A COI shows active coverage but does not change policy terms. Typical turnaround is 1–2 business days after confirming coverage details. Requestors often ask for Additional Insured or Primary & Non-Contributory wording."
+    },
+    {
+        "id": "4",
+        "title": "Waiver of Subrogation (WOS)",
+        "text": "A waiver of subrogation asks the carrier to waive recovery rights against a specified party after a paid loss, when endorsed. It may increase premium and is often required by contracts."
+    },
+    {
+        "id": "5",
+        "title": "Primary & Non-Contributory (PNC)",
+        "text": "PNC wording seeks for your policy to respond on a primary basis and not seek contribution from the additional insured’s policy, where applicable and endorsed."
+    },
+    {
+        "id": "6",
+        "title": "Umbrella / Excess Basics",
+        "text": "Umbrella or excess liability can provide higher limits above GL/Auto/WC Employers Liability. Some follow form; others include exclusions. Always confirm underlying requirements."
+    },
+    {
+        "id": "7",
+        "title": "Commercial Auto Symbols (BAP)",
+        "text": "Symbol 1 means Any Auto. Symbol 7 means Specifically Described Autos only. Verify symbols to ensure the intended vehicles are covered."
+    },
+    {
+        "id": "8",
+        "title": "Renewal Timeline (Broker Workflow)",
+        "text": "T-90 gather exposures and request loss runs. T-60 market to carriers. T-30 present options and bind when possible. Communicate material changes early."
+    },
+    {
+        "id": "9",
+        "title": "Claims — First Notice of Loss (FNOL)",
+        "text": "Collect incident details, photos, and any witness statements. Notify the carrier or TPA promptly and preserve relevant evidence."
+    },
+    {
+        "id": "10",
+        "title": "Property Coverage Basics",
+        "text": "Property policies can cover buildings, contents, and business interruption. Report Total Insured Value (TIV) and update for new locations or major equipment."
+    },
+    {
+        "id": "11",
+        "title": "Billing: Agency vs Direct Bill",
+        "text": "Agency bill invoices come from the broker; direct bill invoices come from the carrier. Verify payee and due dates to avoid lapse."
+    },
+    {
+        "id": "12",
+        "title": "Additional Insured (AI) Overview",
+        "text": "Additional Insured extends certain coverage to a third party for liability arising from your operations when endorsed. Check whether it applies to ongoing and/or completed operations."
+    }
+]

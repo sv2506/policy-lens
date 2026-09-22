@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Runtime data
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend
+client/node_modules/
+client/dist/
+*.tsbuildinfo
+
+# Environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+*.log
